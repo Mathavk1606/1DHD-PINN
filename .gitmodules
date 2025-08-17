@@ -1,0 +1,3 @@
+[submodule "PINNpapers"]
+	path = PINNpapers
+	url = git@github.com:idrl-lab/PINNpapers.git
