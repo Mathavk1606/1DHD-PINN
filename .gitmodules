@@ -1,3 +1,6 @@
 [submodule "PINNpapers"]
 	path = PINNpapers
 	url = git@github.com:idrl-lab/PINNpapers.git
+[submodule "examples/PINNpapers"]
+	path = examples/PINNpapers
+	url = https://github.com/idrl-lab/PINNpapers.git
